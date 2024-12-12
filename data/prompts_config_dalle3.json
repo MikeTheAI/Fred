@@ -5,7 +5,7 @@
             "figure": ["stoic warrior statue", "fighter monk", "roman greco warrior", "berserker"],
             "attire": ["garment", "partial warlike armor", "training gi", "heavy armor", "viking armor"], 
             "painting": ["oil painting", "ink painting"],
-            "motion": ["motion", "training", "medidation", "battle"],
+            "motion": ["motion", "training", "medidation", "battle"],dsadsa
             "location": ["mountain", "arena", "desert", "training ground"],
             "aesthetic": ["atmospheric", "intense", "desert", "cyberpunk", "japanese", "chinese"]
           }
