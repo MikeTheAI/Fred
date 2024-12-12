@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./data/logo.png" alt="Logo" title="Decepticon">
+ 
 </div>
 
 # Twitter LLM Bot
