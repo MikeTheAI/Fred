@@ -5,7 +5,7 @@
             "name": "Python: Main",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/src/main.py",
+            "program": "${workspaceFolder}/src/main.py",csasacsa
             "console": "integratedTerminal",  gfhfgfg
             "cwd": "${workspaceFolder}"
         },
